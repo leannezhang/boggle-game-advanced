@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-# Boggle
+# Boggle Solution
 
 Boggle is a word search game where a player find words in sequence of adjacent letters. Player gets points by building words.
 
